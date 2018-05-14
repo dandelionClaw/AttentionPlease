@@ -1,4 +1,5 @@
-![logo](/AttentionPlease.ico)
+![logo](/AttentionPlease.jpg)
+
 AttentionPlease更新手册
 =========================
 
