@@ -1,4 +1,4 @@
-![mahua](AttentionPlease.ico)
+![logo](/AttentionPlease.ico)
 AttentionPlease更新手册
 =========================
 
